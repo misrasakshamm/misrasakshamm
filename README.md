@@ -1,16 +1,23 @@
-## Hi there 👋
+### 👋 Hi, I'm Saksham Misra
 
-<!--
-**misrasakshamm/misrasakshamm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd Year ECE Student @ Ajay Kumar Garg Engineering College
+💻 Aspiring Software Developer | DSA Enthusiast
 
-Here are some ideas to get you started:
+I'm an Electronics & Communication Engineering student passionately transitioning into software development. I enjoy solving Data Structures & Algorithms problems and building full-stack web applications, including CRUD applications using Spring Boot.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🔧 Tech Stack**
+
+- **Languages:** Java, JavaScript, SQL
+- **Frontend:** HTML, CSS, React
+- **Backend:** Spring Boot
+- **Problem Solving:** Data Structures & Algorithms (DSA)
+
+**🌱 Currently focused on:**
+
+- Strengthening my DSA fundamentals for interviews and placements
+- Building CRUD applications and REST APIs using Spring Boot
+- Developing full-stack projects using React (frontend) and Spring Boot (backend)
+- Exploring database design and integration with SQL
+
+**📫 Let's connect**
+
