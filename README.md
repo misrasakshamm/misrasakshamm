@@ -1,6 +1,14 @@
-# 💫 About Me:
-Hi, I'm Saksham Misra<br>3rd Year ECE Student @ Ajay Kumar Garg Engineering College Aspiring Software Developer | DSA Enthusiast
-Currently focused on:**<br><br> Strengthening my DSA fundamentals for interviews and placements<br>Building CRUD appications and REST APIs using Spring BootDeveloping full-stack projects using React (frontend) and Spring Boot (backend)<br>Exploring database design and integration with SQL
+## 💫 About Me
+
+Hi, I'm **Saksham Misra**  
+3rd Year ECE Student @ Ajay Kumar Garg Engineering College  
+Aspiring Software Developer | DSA Enthusiast
+
+### 🎯 Currently Focused On:
+- Strengthening my DSA fundamentals for interviews and placements
+- Building CRUD applications and REST APIs using Spring Boot
+- Developing full-stack projects using React (frontend) and Spring Boot (backend)
+- Exploring database design and integration with SQL
 
 
 # 💻 Tech Stack:
